@@ -9,7 +9,7 @@ No watermark 🧼
 Just merge your PDF files quickly and safely ⚡
 
 ## Live App 🌐
-https://pdf-merger-psi-beryl.vercel.app/
+
 
 ## What This Project Does 🧠
 - Merges multiple PDF files into one downloadable PDF
@@ -53,7 +53,7 @@ Your files are not sent to any external server by this app.
 
 ## Local Setup 🚀
 ```bash
-git clone https://github.com/berkindev/pdf-merger.git
+git clone  : https://github.com/Prashanthgoud15/PdfMerger.git
 cd pdf-merger
 npm install
 npm start
