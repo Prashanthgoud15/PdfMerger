@@ -9,7 +9,7 @@ No watermark 🧼
 Just merge your PDF files quickly and safely ⚡
 
 ## Live App 🌐
-
+https://pdfmerger-snowy.vercel.app/
 
 ## What This Project Does 🧠
 - Merges multiple PDF files into one downloadable PDF
@@ -69,7 +69,7 @@ src/
 		PDFMerger.jsx
 ```
 
-## Author 👨‍💻
+## Coded by 👨‍💻
 Prashanth Goud
 
 LinkedIn 🔗:
